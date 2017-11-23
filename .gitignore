@@ -1,0 +1,8 @@
+
+.DS_Store
+*.cmake
+step-35/CMakeCache.txt
+*.vtk
+step-35/Makefile
+step-35/step-35
+CMakeFiles/
